@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeGameIsAFreeGame.Scraper.PrimeGaming", "FreeGameIsAFreeGame.Scraper.PrimeGaming\FreeGameIsAFreeGame.Scraper.PrimeGaming.csproj", "{846E67BE-3FC3-4938-B66F-52EEBA607756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeGameIsAFreeGame.Core", "..\FreeGameIsAFreeGame.Core\FreeGameIsAFreeGame.Core\FreeGameIsAFreeGame.Core\FreeGameIsAFreeGame.Core.csproj", "{BAFDD645-44A4-42E6-B68C-FD6867D0CBA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{846E67BE-3FC3-4938-B66F-52EEBA607756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846E67BE-3FC3-4938-B66F-52EEBA607756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846E67BE-3FC3-4938-B66F-52EEBA607756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846E67BE-3FC3-4938-B66F-52EEBA607756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAFDD645-44A4-42E6-B68C-FD6867D0CBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFDD645-44A4-42E6-B68C-FD6867D0CBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFDD645-44A4-42E6-B68C-FD6867D0CBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFDD645-44A4-42E6-B68C-FD6867D0CBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
