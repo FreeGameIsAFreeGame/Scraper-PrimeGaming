@@ -107,7 +107,7 @@ namespace FreeGameIsAFreeGame.Scraper.PrimeGaming
                 {
                     Discount = 100,
                     Image = GetImageUrl(offer),
-                    Link = "https://twitch.amazon.com/tp/loot",
+                    Link = "https://gaming.amazon.com/home",
                     Title = offer.Title,
                     Start = offer.StartTime.UtcDateTime,
                     End = offer.EndTime.UtcDateTime,

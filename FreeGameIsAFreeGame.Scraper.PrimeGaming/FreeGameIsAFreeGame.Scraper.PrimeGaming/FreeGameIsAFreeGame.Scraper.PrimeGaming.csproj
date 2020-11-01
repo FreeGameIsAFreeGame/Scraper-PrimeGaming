@@ -2,6 +2,12 @@
 
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
+        <Title>Free Game Is A Free Game - Prime Gaming Scraper</Title>
+        <Authors>Thundernerd</Authors>
+        <Copyright>FreeGameIsAFreeGame</Copyright>
+        <PackageProjectUrl>https://github.com/FreeGameIsAFreeGame/Scraper-PrimeGaming</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/FreeGameIsAFreeGame/Scraper-PrimeGaming/blob/master/LICENSE</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/FreeGameIsAFreeGame/Scraper-PrimeGaming</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
