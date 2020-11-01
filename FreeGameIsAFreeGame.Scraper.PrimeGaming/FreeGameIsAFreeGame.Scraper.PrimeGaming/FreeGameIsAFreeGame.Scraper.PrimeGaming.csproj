@@ -8,6 +8,7 @@
         <PackageProjectUrl>https://github.com/FreeGameIsAFreeGame/Scraper-PrimeGaming</PackageProjectUrl>
         <PackageLicenseUrl>https://github.com/FreeGameIsAFreeGame/Scraper-PrimeGaming/blob/master/LICENSE</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/FreeGameIsAFreeGame/Scraper-PrimeGaming</RepositoryUrl>
+        <PackageVersion>1.0.1</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
