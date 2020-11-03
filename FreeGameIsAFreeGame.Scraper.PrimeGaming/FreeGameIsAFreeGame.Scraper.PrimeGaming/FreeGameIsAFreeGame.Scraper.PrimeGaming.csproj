@@ -8,12 +8,12 @@
         <PackageProjectUrl>https://github.com/FreeGameIsAFreeGame/Scraper-PrimeGaming</PackageProjectUrl>
         <PackageLicenseUrl>https://github.com/FreeGameIsAFreeGame/Scraper-PrimeGaming/blob/master/LICENSE</PackageLicenseUrl>
         <RepositoryUrl>https://github.com/FreeGameIsAFreeGame/Scraper-PrimeGaming</RepositoryUrl>
-        <PackageVersion>1.0.1</PackageVersion>
+        <PackageVersion>1.0.2</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
       <PackageReference Include="AngleSharp" Version="0.14.0" />
-      <PackageReference Include="FreeGameIsAFreeGame.Core" Version="1.0.0" />
+      <PackageReference Include="FreeGameIsAFreeGame.Core" Version="2.0.0" />
       <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
       <PackageReference Include="NLog" Version="4.7.4" />
       <PackageReference Include="RestSharp" Version="106.11.4" />
