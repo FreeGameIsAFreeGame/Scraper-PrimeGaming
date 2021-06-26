@@ -2,7 +2,7 @@ name: Pack and Publish to GitHub Packages
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 env:
   PROJ_DIR: FreeGameIsAFreeGame.Scraper.PrimeGaming
